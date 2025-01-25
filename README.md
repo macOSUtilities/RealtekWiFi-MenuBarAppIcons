@@ -30,10 +30,11 @@ Or you can open a Terminal Window and run:\
 The icons in action:
 
 **Dark Mode**\
-![](https://i.imgur.com/fzXDwxI.png)
+![Screenshot of the dark mode Wi-Fi icon in the Menu Bar](https://github.com/user-attachments/assets/3707f0b0-96de-4a37-a43b-3cec562e3f24)
+
 
 **Light Mode**\
-![](https://i.imgur.com/F4MQ2N8.png)
+![Screenshot of the light mode Wi-Fi icon in the Menu Bar](https://i.imgur.com/F4MQ2N8.png)
 
 ### Minor Inconveniences ###
 
