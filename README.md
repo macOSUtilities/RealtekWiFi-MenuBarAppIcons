@@ -20,7 +20,7 @@ You will need to logout so the changes can be applied!\
 Or you can open a Terminal Window and run:\
 `killall StatusBarApp` to kill the process. Then just regular double-click on the `.app` to reopen.
 
-#### Screenshot ####
+## Screenshot ##
 
 The icons in action:
 
@@ -30,7 +30,7 @@ The icons in action:
 **Light Mode**\
 ![](https://i.imgur.com/F4MQ2N8.png)
 
-#### Minor Inconveniences ####
+### Minor Inconveniences ###
 
 The icons don't change based on the system theme.\
 For now you can rerun the installation script to change the theme.\
