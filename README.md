@@ -1,16 +1,21 @@
-# Status Bar Icons for Realtek Wi-Fi Adapters.
+# Menu Bar Icons for Realtek Wi-Fi Adapters.
 
-By default, the icons that ship with the StatusBarApp for the Realtek Wi-Fi Adapters (the Wi-Fi menu living in your Status Bar) look very ancient and out-of-place with macOS. These icons have been taken from Apple's official SF Icons and modified to slot in cleanly with the rest of the icons.
+By default, the icons that ship with the StatusBarApp for the Realtek Wi-Fi Adapters (the Wi-Fi menu living in your Menu Bar) look very ancient and out-of-place with macOS. These icons have been taken from Apple's official SF Icons and modified to slot in cleanly with the rest of the icons.
 
 ## Installation ##
 
-#### Script ####
-To use the installation script, open a Terminal window in the project's folder by right-clicking the folder and run:\
-`sh installationScript.sh`
-The script will copy the icons, quit the app, and reopen it to apply the new icons.
+#### Easy-Install ####
+To use the quick-install script, follow these steps:
+1. Download and open the latest DMG from Releases.
+2. Double-click `install.command`
+3. Follow the script instructions.
+4. On some versions of macOS, you will have to hold down Option (Alt), then Contol-click (right-click), then click open.
+On some Macs running Sequoia or higher, you will have to visit Privacy & Security in System Settings to allow the script.
+The script will let you pick which mode, then copy the icons, quit the app, and reopen it to apply the new icons.
 
 #### Manual Installation ####
 
+Download and open the latest DMG from Releases. 
 Copy the icons from the theme of your choosing and move them to:\
 `/Library/Application Support/WLAN/StatusBarApp.app/Contents/Resources`
 
