@@ -6,7 +6,7 @@ By default, the icons that ship with the StatusBarApp for the Realtek Wi-Fi Adap
 
 #### Easy-Install ####
 To use the quick-install script, follow these steps:
-1. Download and open the latest DMG from Releases.
+1. Download and open the [latest DMG from Releases.](https://github.com/macOSUtilities/RealtekWiFi-MenuBarAppIcons/releases/download/v2.0/Package_v1.0_macOS.dmg)
 2. Double-click `install.command`
 3. Follow the script instructions.
 4. On some versions of macOS, you will have to hold down Option (Alt), then Contol-click (right-click), then click open.
