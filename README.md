@@ -34,4 +34,4 @@ The icons in action:
 
 The icons don't change based on the system theme.\
 For now you can rerun the installation script to change the theme.\
-But I will be looking for a solution to that problem that doesn't require white/black icons in the same file\
+But I will be looking for a solution to that problem that doesn't require white/black icons in the same file.
